@@ -1,2 +1,3 @@
 #contains files and folders that should be excluded from version control
 vendor/
+composer.lock
